@@ -1,6 +1,6 @@
 {
   "name": "fahad399-typescript-currency-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a Currency Convertor For Exchanging the rate of Currency",
   "main": "index.js",
   "type": "module",
